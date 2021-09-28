@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "newGradeExists",
+        "transactionLabel": "A test newGradeExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createNewGrade",
+        "transactionLabel": "A test createNewGrade transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readNewGrade",
+        "transactionLabel": "A test readNewGrade transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateNewGrade",
+        "transactionLabel": "A test updateNewGrade transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteNewGrade",
+        "transactionLabel": "A test deleteNewGrade transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
